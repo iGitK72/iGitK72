@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iGitK72
 - 👀 I’m interested in everything, but mostly Laravel
 - 🌱 I’m currently learning TALL stack
-- 💞️ I’m looking to collaborate on a sports club administration platform.
+- 💞️ I’m looking to collaborate on ??? Try me.
 - 📫 How to reach me:  Here
 
 <!---
